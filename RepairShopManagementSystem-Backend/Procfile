@@ -1,0 +1,1 @@
+web: java -jar RepairShopManagementSystem-Backend/build/libs/RepairShopManagementSystem-Backend-0.0.1-SNAPSHOT.jar
