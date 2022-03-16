@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">RSMS-Android</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_homepage">homepageActivity</string>
+    <string name="title_activity_car_m">MainActivity</string>
+    <string name="title_activity_edit_info">EditInfoActivity</string>
+
+    <string-array name="appointments">
+        <item>Maintenance</item>
+        <item>Wash</item>
+        <item>Colour</item>
+    </string-array>
+
+    <string-array name="plateNos">
+        <item>A123456</item>
+        <item>A654321</item>
+        <item>A123456</item>
+    </string-array>
+
+    <string-array name="times">
+        <item>21/02/11/22:00-23:00</item>
+        <item>22/08/23/10:00-22:00</item>
+        <item>21/01/14/13:00-16:00</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$300</item>
+        <item>$20</item>
+        <item>$500</item>
+    </string-array>
+
+    <string-array name="statuses">
+        <item>paid</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+
+
+    <string-array name="shiftId">
+        <item>111111</item>
+        <item>222222</item>
+        <item>333333</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>22:00-23:00</item>
+        <item>10:00-22:00</item>
+        <item>13:00-16:00</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>21/04/18</item>
+        <item>21/04/19</item>
+        <item>21/04/20</item>
+    </string-array>
+
+</resources>
