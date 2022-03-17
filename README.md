@@ -44,7 +44,7 @@ External systems or services are not required to be integrated.
 
 ## Deliverable 1
 
-The Meeting Minute can be found [here](https://github.com/McGill-ECSE321-Winter2021/project-group-11/wiki/Meeting-Minutes-for-Sprint-1)
+The Meeting Minute can be found [here](https://github.com/ByronChen12138/RepairShopManagementSystem/wiki/Meeting-Minutes-for-Sprint-1)
 
 | Team member | Total hours | Responsibility |
 |------------------ |:-------------:| ---------------|
@@ -58,7 +58,7 @@ The Meeting Minute can be found [here](https://github.com/McGill-ECSE321-Winter2
 
 ## Deliverable 2
 
-The Meeting Minute can be found [here](https://github.com/McGill-ECSE321-Winter2021/project-group-11/wiki/Meeting-Minutes-for-Sprint-2)
+The Meeting Minute can be found [here](https://github.com/ByronChen12138/RepairShopManagementSystem/wiki/Meeting-Minutes-for-Sprint-2)
 
 | Team member | Total hours | Responsibility |
 |------------------ |:-------------:| ---------------|
@@ -72,7 +72,7 @@ The Meeting Minute can be found [here](https://github.com/McGill-ECSE321-Winter2
 
 ## Deliverable 3
 
-The Meeting Minute can be found [here](https://github.com/McGill-ECSE321-Winter2021/project-group-11/wiki/Meeting-Minutes-for-Sprint-3)
+The Meeting Minute can be found [here](https://github.com/ByronChen12138/RepairShopManagementSystem/wiki/Meeting-Minutes-for-Sprint-3)
 
 | Team member | Total hours | Responsibility |
 |------------------ |:-------------:| ---------------|
