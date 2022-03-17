@@ -26,7 +26,7 @@ This android branch only allow customer to sign up, log in, add or update car, v
 
 ## Deliverable 4
 
-The Meeting Minute can be found [here](https://github.com/McGill-ECSE321-Winter2021/project-group-11/wiki/Meeting-Minutes-for-Sprint-4)
+The Meeting Minute can be found [here](https://github.com/ByronChen12138/RepairShopManagementSystem/wiki/Meeting-Minutes-for-Sprint-4)
 
 | Team member | Total hours | Responsibility |
 |------------------ |:-------------:| ---------------|
